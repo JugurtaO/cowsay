@@ -7,21 +7,21 @@ Apprendre les bases du shell et manipuler des commandes système sur la ligne de
 # Table des matières: 
  
 ## 1-Préliminaires 
-  ➣ Le monde Cowsay 
-  ➣ Quelques options de Cowsay 
-  ➣ Sorties d’exécution de quelques commandes 
+  ➣ Le monde Cowsay. <br>
+  ➣ Quelques options de Cowsay.<br>
+  ➣ Sorties d’exécution de quelques commandes.<br>
   
 ## 2-Bash 
   ➣ Les codes sources des exercices demandés. <br>
   ➣ Les sorties d’exécution des scripts. <br>
 
  ## 3-C 
-  ➣ Les codes sources des exercices demandés. 
-  ➣ Les sorties d’exécution des scripts 
+  ➣ Les codes sources des exercices demandés. <br>
+  ➣ Les sorties d’exécution des scripts.<br>
  
  ## 4-Automates 
-  ➣ Le code source de l’exercice  
-  ➣ Sortie d’exécution du code.  
+  ➣ Le code source de l’exercice.<br> 
+  ➣ Sortie d’exécution du code. <br>
  
  
 
