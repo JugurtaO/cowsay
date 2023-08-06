@@ -25,7 +25,7 @@ Apprendre les fondamentaux du shell et manipuler des commandes système sur la l
  
  
 
- ### -[Learn More about Shell basic] (https://gist.github.com/JugurtaO/6b2a6b30457ff4b5a665e00d8050c2e9)
+ ### -[Learn More about Shell basic](https://gist.github.com/JugurtaO/6b2a6b30457ff4b5a665e00d8050c2e9)
  
  
  
