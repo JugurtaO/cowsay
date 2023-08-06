@@ -2,7 +2,7 @@
 Une vache qui prononce des mots, parfois folle , elle réagit quand elle a faim.
 
 ## Objectifs:
-Apprendre les fondamentaux du shell et manipuler des commandes système sur la ligne de commande.
+Apprendre les bases du shell et manipuler des commandes système sur la ligne de commande.
  
 # Table des matières: 
  
