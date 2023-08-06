@@ -1,5 +1,6 @@
 ## COWSAY , c'est quoi?
 Une vache qui prononce des mots, parfois folle , elle réagit quand elle a faim.
+![Screenshot from 2023-08-06 22-21-58](https://github.com/JugurtaO/cowsay/assets/98745935/683702b3-930b-4bdf-abf4-7697c9cc1c62)
 
 
 ## Objectifs:
