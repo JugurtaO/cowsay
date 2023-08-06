@@ -12,8 +12,8 @@ Apprendre les bases du shell et manipuler des commandes système sur la ligne de
   ➣ Sorties d’exécution de quelques commandes 
   
 ## 2-Bash 
-  ➣ Les codes sources des exercices demandés.
-  ➣ Les sorties d’exécution des scripts 
+  ➣ Les codes sources des exercices demandés. <br>
+  ➣ Les sorties d’exécution des scripts. <br>
 
  ## 3-C 
   ➣ Les codes sources des exercices demandés. 
